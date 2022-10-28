@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Armel CODJIA</h1>
 <h3 align="center">A passionate Software developer from Benin</h3>
 
-- 🔭 I’m currently working on [Word Doc generator](https://github.com/UlrichCODJIA/Word_Doc_generator)
+- 🔭 I’m currently working on [Word Doc generator](https://github.com/UlrichCODJIA/Word_Doc_generator) (Just starting)
 
 - 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on [webcop](https://github.com/UlrichCODJIA/webcop)
 
-- 📝 I regularly write articles on [https://armelcodjia.hashnode.dev/](https://armelcodjia.hashnode.dev/)
-
 - 💬 Ask me about **python, javascript, web development**
 
 - 📫 How to reach me: **codjiaulrich5@outlook.fr**
 
-- 📄 Know about my experiences: [https://armelcodjia.files.wordpress.com/2022/10/resume_armel_codjia_us.pdf](https://armelcodjia.files.wordpress.com/2022/10/resume_armel_codjia_us.pdf)
+- 📄 Know about my experiences: [My resume](https://armelcodjia.files.wordpress.com/2022/10/resume_armel_codjia_us.pdf)
 
 - ⚡ Fun fact: **The world’s first programmer was a woman. Ada Lovelace, born in 1815, was the world’s first programmer. She started to work on the analytical engine in the early 18th century.**
 
