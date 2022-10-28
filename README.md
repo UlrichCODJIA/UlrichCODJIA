@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25">, I'm Armel CODJIA</h1>
-<h3 align="center">A passionate Software developer from Benin</h3>
+<h3 align="center">A passionate Software developer from Benin</h3><br>
 
 - 🔭 I’m currently working on [Word Doc generator](https://github.com/UlrichCODJIA/Word_Doc_generator) (Just starting)
 
